@@ -16,6 +16,9 @@ repositories {
 
 dependencies {
     implementation 'org.jpos:jpos:2.1.8-SNAPSHOT'
+    implementation 'org.json:json:20210307'
+    implementation 'com.googlecode.json-simple:json-simple:1.1' // o la versión más reciente
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.5'
 }
 
 apply from: 'jpos-app.gradle'

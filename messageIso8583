@@ -1,0 +1,37 @@
+<isomsg>
+         <field id="0" value="2200"/>
+         <field id="2" value="6509000011505891"/>
+         <field id="3" value="000000"/>
+         <field id="4" currency="826" type="amount" value="2.50"/>
+         <field id="5" currency="840" type="amount" value="4.02"/>
+         <field id="7" value="1204161332"/>
+         <field id="11" value="000000000943"/>
+         <field id="12" value="20231204161332"/>
+         <field id="14" value="2605"/>
+         <field id="22" value="2102"/>
+         <field id="24" value="100"/>
+         <field id="25" value="0000"/>
+         <field id="26" value="7011"/>
+         <field id="32" value="00000361603"/>
+         <field id="35" value="6509000011505891=26052016820000000000"/>
+         <field id="40" value="024"/>
+         <field id="41" value="00000000"/>
+         <field id="42" value="123400000000000"/>
+         <isomsg id="43">
+           <field id="2" value="Issuer Script         "/>
+           <field id="4" value="Test City    "/>
+           <field id="5" value="HAM"/>
+           <field id="7" value="GB"/>
+         </isomsg>
+         <field id="48" value="001"/>
+         <isomsg id="49">
+           <field id="2" value="024"/>
+         </isomsg>
+         <field id="59" value="DN"/>
+         <field id="60" value="DISCINTE"/>
+         <field id="92" value="826"/>
+         <field id="114" value="POS DISC DN"/>
+         <field id="120" value="TRANSACCION POR INTERNACIONAL"/>
+         <field id="128" value="073130985337427"/>
+         <field id="922" value="200101200001"/>
+</isomsg>
